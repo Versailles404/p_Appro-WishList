@@ -15,6 +15,7 @@ CREATE TABLE t_utilisateur(
    prénom VARCHAR(50),
    date_de_naissance DATE,
    langue VARCHAR(50),
+   motDePasse VARCHAR(100),
    PRIMARY KEY(idUtilisateur)
 );
 
