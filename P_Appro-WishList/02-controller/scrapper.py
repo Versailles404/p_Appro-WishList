@@ -5,9 +5,12 @@ import requests
 # add lib
 from bs4 import BeautifulSoup
 
-def scrap
+def scrap()
+    {
+        return fetchDatas
+    }
 
-# Digitec struct. 1page = 1prod
+# Galaxus struct. 1page = 1prod
 #
 # Nom
 #   <span class="sc-1l1ysqm-0 bDSRlN">AirPods Pro (2nd Gen.) MagSafe USB-C</span>
