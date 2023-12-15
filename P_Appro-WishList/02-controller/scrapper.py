@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 def scrap()
     {
-        return fetchDatas
+        return fetchedDatas
     }
 
 # Galaxus struct. 1page = 1prod
